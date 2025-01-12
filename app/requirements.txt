@@ -1,6 +1,0 @@
-pandas==2.2.2
-requests==2.32.2
-bs4==4.12.3
-fake-useragent==2.0.3
-fastapi==2.0.3
-uvicorn==0.34.0
