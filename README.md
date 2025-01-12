@@ -61,6 +61,7 @@ Realiza o scraping de dados do site VitiBrasil com base nos parâmetros fornecid
         - `sub_aba`: Subaba, caso aplicável.
 
 `clean.py`
+
 Processa e limpa os dados extraídos para convertê-los em um formato estruturado.
 
 - Função: `extract_table_from_html(html_table)`
