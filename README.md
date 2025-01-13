@@ -22,7 +22,7 @@ Uma aplicação para realizar web scraping no site **VitiBrasil** e disponibiliz
 ## Uso
 ### Acesso
 
-A API está disponível em: http://www.xxxxxxx.com.br
+A API está disponível em: https://fiap-ml-techchallenge-fase1.vercel.app/docs
 
 ### Endpoints Disponíveis
 `GET /vitibrasil/`
