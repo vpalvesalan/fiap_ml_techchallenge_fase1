@@ -78,7 +78,7 @@ Define os endpoints da API e combina as funções de scraping e limpeza.
 O projeto utiliza as seguintes bibliotecas:
 
 - **FastAPI**: Framework para construção de APIs REST.
-- **bs4**: Para web scraping.
+- **beautifulsoup4**: Para web scraping.
 - **fake_useragent**: Simulação de cabeçalhos de requisições.
 - **pandas**: Processamento e limpeza de dados.
 - **requests**: Requisições HTTP.
